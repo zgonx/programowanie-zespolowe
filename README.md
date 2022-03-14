@@ -1,1 +1,3 @@
 # programowanie-zespolowe
+
+# pierwszy c
